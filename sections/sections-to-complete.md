@@ -1,0 +1,13 @@
+# Sections Checklist
+- [x] 01-title-and-badges
+- [ ] 02-overview
+- [ ] 03-demo
+- [x] 04-key-features
+- [x] 05-tech-stack
+- [x] 06-automation-flow
+- [x] 07-prerequisites
+- [x] 08-quick-start
+- [x] 09-usage
+- [x] 10-license
+- [x] 11-author
+- [x] 12-ai-notes-credit

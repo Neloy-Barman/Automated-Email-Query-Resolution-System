@@ -1,0 +1,390 @@
+{
+  "university": "Crestwood University",
+  "total_faqs": 64,
+  "data": [
+    {
+      "id": 1,
+      "topic": "Admissions and Applications",
+      "question": "How do I apply to Crestwood University, and is there an online application?",
+      "answer": "You can apply to Crestwood University by completing the online application through the student portal at portal.crestwooduniversity.edu. After you submit the form, you’ll be prompted to upload required documents and provide any additional information needed. If you run into issues accessing the application, contact support@crestwooduniversity.edu for assistance."
+    },
+    {
+      "id": 2,
+      "topic": "Admissions and Applications",
+      "question": "When are the application deadlines for fall and spring?",
+      "answer": "Application deadlines vary by term and program, so the most accurate dates are posted in the admissions section of portal.crestwooduniversity.edu. Crestwood University recommends submitting your application well before the posted deadline to allow time for document review. If you need help confirming the deadline for your program, email helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 3,
+      "topic": "Admissions and Applications",
+      "question": "What documents do I need to submit with my application?",
+      "answer": "Most applicants to Crestwood University will need to submit official transcripts and any program-specific materials listed in the portal application checklist at portal.crestwooduniversity.edu. Some programs may also require letters of recommendation, a resume, or a personal statement. Upload what you can in the portal and request official records as early as possible to avoid delays."
+    },
+    {
+      "id": 4,
+      "topic": "Admissions and Applications",
+      "question": "Do I have to send official transcripts right away, or can I upload unofficial ones first?",
+      "answer": "Crestwood University may allow unofficial transcripts for an initial review, but official transcripts are required before final admission or enrollment can be confirmed. The portal at portal.crestwooduniversity.edu will indicate whether unofficial documents are acceptable for your application stage. If your checklist is unclear, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 5,
+      "topic": "Admissions and Applications",
+      "question": "What are the basic eligibility requirements to apply?",
+      "answer": "Eligibility requirements depend on the program level and department, but all applicants must meet the minimum academic preparation stated in the program’s admissions criteria. Crestwood University reviews academic history and any required supporting materials listed in your application checklist in portal.crestwooduniversity.edu. If you’re unsure whether you qualify, submit an application and the admissions team will evaluate your materials."
+    },
+    {
+      "id": 6,
+      "topic": "Admissions and Applications",
+      "question": "I’m a transfer student—how do I apply and will my credits transfer?",
+      "answer": "Transfer students apply through portal.crestwooduniversity.edu and should submit transcripts from all previously attended institutions. Crestwood University evaluates transfer credits after admission based on course content, grades, and program requirements. If you want guidance on what to submit or how to list prior schools, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 7,
+      "topic": "Admissions and Applications",
+      "question": "What does Crestwood University require for international students applying from outside the U.S.?",
+      "answer": "International applicants should complete the standard application in portal.crestwooduniversity.edu and provide academic records from prior institutions as listed on the checklist. You may be asked for additional documentation depending on your country of study and program requirements. For questions about document submission or technical issues in the portal, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 8,
+      "topic": "Admissions and Applications",
+      "question": "How can I check my application status after I submit everything?",
+      "answer": "You can monitor your application status by logging into portal.crestwooduniversity.edu and viewing your admissions dashboard and checklist. Crestwood University updates the status as documents are received and reviewed, so check back regularly for changes or requests. If your status hasn’t updated after you’ve submitted items, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 9,
+      "topic": "Admissions and Applications",
+      "question": "I got an email saying something is missing—how do I know what I still need to submit?",
+      "answer": "Your most accurate missing-item list is the application checklist in portal.crestwooduniversity.edu, which shows which documents are received and which are still pending. Crestwood University may also send follow-up messages through the portal messaging center with details. If you believe an item should be marked received, contact support@crestwooduniversity.edu with your full name and applicant ID."
+    },
+    {
+      "id": 10,
+      "topic": "Admissions and Applications",
+      "question": "If I receive an offer letter, what are the next steps to accept my admission?",
+      "answer": "If you are admitted, Crestwood University will post your offer letter and acceptance instructions in portal.crestwooduniversity.edu. Follow the steps to confirm your acceptance by the stated deadline and complete any required onboarding items listed in your account. If you can’t access your offer letter or acceptance button, email helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 11,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "Where can I see the tuition and fees breakdown for my program?",
+      "answer": "Your detailed tuition and fee breakdown is available in the billing section of portal.crestwooduniversity.edu. Crestwood University itemizes charges by term and may include program fees and other required charges based on your enrollment. If something looks incorrect, email support@crestwooduniversity.edu with a screenshot of the charge list."
+    },
+    {
+      "id": 12,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "When is tuition due each semester, and what happens if I miss the deadline?",
+      "answer": "Payment deadlines are posted in your student account on portal.crestwooduniversity.edu and may vary by term and registration date. Crestwood University encourages you to pay early to avoid late penalties or holds on your account. If you anticipate missing a deadline, contact support@crestwooduniversity.edu as soon as possible to discuss options."
+    },
+    {
+      "id": 13,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "What payment methods does Crestwood University accept for tuition?",
+      "answer": "Crestwood University accepts tuition payments through portal.crestwooduniversity.edu using the available electronic payment options shown at checkout. The portal will display permitted methods and any processing requirements before you submit payment. If you receive an error while paying, email helpdesk@crestwooduniversity.edu with the date/time of the attempt."
+    },
+    {
+      "id": 14,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "How do late fees work if I pay after the due date?",
+      "answer": "Late fees may be assessed automatically if your balance remains unpaid after the posted due date in portal.crestwooduniversity.edu. Crestwood University applies penalties based on the billing rules for the term, and additional account restrictions may be placed until payment is resolved. If you think a late fee was added in error, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 15,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "Where can I download a tuition receipt for reimbursement from my employer?",
+      "answer": "You can download receipts and payment confirmations from the billing history section of portal.crestwooduniversity.edu. Crestwood University receipts typically include payment date, amount, and the term the payment was applied to. If you need a customized invoice format, email support@crestwooduniversity.edu with your request."
+    },
+    {
+      "id": 16,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "How do I get an invoice that shows what I owe before I pay?",
+      "answer": "Invoices are available in the billing area of portal.crestwooduniversity.edu once charges are posted for the term. Crestwood University updates invoices when your enrollment changes or when aid is applied, so check your balance close to the due date. If an invoice is missing or not generating, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 17,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "How do I apply for scholarships through Crestwood University?",
+      "answer": "Scholarship opportunities and application steps are listed in the financial aid section of portal.crestwooduniversity.edu. Crestwood University may require a short application, supporting documents, or a statement depending on the scholarship. For questions about deadlines or required materials, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 18,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "Am I eligible for financial aid, and how do I check what I qualify for?",
+      "answer": "Financial aid eligibility depends on your enrollment status, program, and other criteria shown in your financial aid profile on portal.crestwooduniversity.edu. Crestwood University will display any required steps and requested documents in your portal checklist. If you need help understanding your aid status, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 19,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "Can I request a fee waiver or reduction if I’m having financial hardship?",
+      "answer": "Crestwood University considers fee waiver or reduction requests on a case-by-case basis when supported by documentation. Submit your request through portal.crestwooduniversity.edu if the option is available, or email support@crestwooduniversity.edu with your student ID and a brief explanation. The university will review your request and respond with next steps or required documents."
+    },
+    {
+      "id": 20,
+      "topic": "Fee Payment and Financial Aid",
+      "question": "What is the refund policy if I drop a class or withdraw from the term?",
+      "answer": "Refund eligibility depends on the withdrawal or drop date and the published refund schedule for the term, which you can view in portal.crestwooduniversity.edu. Crestwood University calculates refunds based on the applicable schedule and any outstanding balances on your account. If you have questions about a specific refund amount or timeline, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 21,
+      "topic": "Course Registration and Academics",
+      "question": "How do I register for classes for next semester?",
+      "answer": "You can register for courses through portal.crestwooduniversity.edu by opening the Registration area and selecting the term you want. Crestwood University recommends reviewing your degree plan and any prerequisites before submitting your schedule. If you can’t access registration, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 22,
+      "topic": "Course Registration and Academics",
+      "question": "Where can I find the add/drop deadline for my classes?",
+      "answer": "Add/drop deadlines are listed on the academic calendar and may differ by session, which you can access through portal.crestwooduniversity.edu. Crestwood University applies these deadlines based on the course start date, not the date you registered. If you’re unsure which deadline applies to your class, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 23,
+      "topic": "Course Registration and Academics",
+      "question": "Is there a maximum number of credits I’m allowed to take in a semester?",
+      "answer": "Yes, Crestwood University sets a credit-hour limit per term based on your program and academic standing. Your portal registration screen at portal.crestwooduniversity.edu will prevent you from exceeding the allowed maximum unless an override is approved. For questions about increasing your limit, contact your academic advisor or email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 24,
+      "topic": "Course Registration and Academics",
+      "question": "The course I need overlaps with another class—what should I do about the time conflict?",
+      "answer": "If you have a schedule conflict, first look for an alternate section or modality in portal.crestwooduniversity.edu. Crestwood University typically does not allow registration in overlapping meeting times unless a formal exception is granted. If an alternate section isn’t available, contact your academic advisor for guidance on options."
+    },
+    {
+      "id": 25,
+      "topic": "Course Registration and Academics",
+      "question": "How does the waitlist work, and will I be automatically enrolled if a spot opens?",
+      "answer": "Waitlist options are shown during registration in portal.crestwooduniversity.edu if the course uses a waitlist. Crestwood University may auto-enroll students from the waitlist when seats open, depending on the course settings and your eligibility. Keep checking your schedule regularly and ensure you don’t have holds that would block enrollment."
+    },
+    {
+      "id": 26,
+      "topic": "Course Registration and Academics",
+      "question": "I’m on the waitlist but it’s close to the start date—should I register for a backup class?",
+      "answer": "Crestwood University recommends registering for a backup course if you need to maintain full-time status or meet program timelines. You can monitor your waitlist position and enrollment status in portal.crestwooduniversity.edu. If you need help selecting alternatives, contact your academic advisor."
+    },
+    {
+      "id": 27,
+      "topic": "Course Registration and Academics",
+      "question": "How do I find out who my academic advisor is and how to contact them?",
+      "answer": "Your assigned advisor and their contact information are listed in the student profile or advising section of portal.crestwooduniversity.edu. Crestwood University encourages students to meet with their advisor before registering, especially if you have prerequisites or graduation planning questions. If your advisor is not listed, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 28,
+      "topic": "Course Registration and Academics",
+      "question": "Can I change my major or add a minor, and where do I submit that request?",
+      "answer": "Major and minor change requests are typically submitted through the academic records or advising workflow in portal.crestwooduniversity.edu. Crestwood University may require advisor approval and may review how the change affects your degree requirements and timeline. If you don’t see the request form in the portal, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 29,
+      "topic": "Course Registration and Academics",
+      "question": "Why won’t the portal let me register for a class that has open seats?",
+      "answer": "Registration may be blocked by prerequisites, holds, program restrictions, or time conflicts even if seats are available. Crestwood University displays the specific error message during registration in portal.crestwooduniversity.edu, which can help identify the issue. If the message isn’t clear, send the details to helpdesk@crestwooduniversity.edu for troubleshooting."
+    },
+    {
+      "id": 30,
+      "topic": "Course Registration and Academics",
+      "question": "Where can I access the academic calendar for holidays, finals, and term dates?",
+      "answer": "The academic calendar is available in the academics section of portal.crestwooduniversity.edu. Crestwood University posts important dates such as term start/end, add/drop deadlines, holidays, and final exam periods. If you can’t locate the calendar link, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 31,
+      "topic": "Exams and Results",
+      "question": "Where do I find my final exam schedule and times?",
+      "answer": "Your exam schedule is posted in the Academics or Exams section of portal.crestwooduniversity.edu once it is released. Crestwood University updates the timetable if there are room or time adjustments, so please check it regularly. If your schedule appears blank, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 32,
+      "topic": "Exams and Results",
+      "question": "How do I download my hall ticket/admit card from the portal?",
+      "answer": "If your course requires a hall ticket/admit card, you can download it from portal.crestwooduniversity.edu under the Exams area. Crestwood University typically requires that your registration and any applicable holds are cleared before the document becomes available. If the download link is missing, email support@crestwooduniversity.edu with your student ID."
+    },
+    {
+      "id": 33,
+      "topic": "Exams and Results",
+      "question": "Will the portal show my exam room or exam center location?",
+      "answer": "Yes, exam center details (building/room or online proctoring instructions) are listed with your exam entry in portal.crestwooduniversity.edu. Crestwood University may finalize room assignments close to the exam date, so review the details again the day before your exam. If you see conflicting locations, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 34,
+      "topic": "Exams and Results",
+      "question": "What ID do I need to bring to my in-person exams?",
+      "answer": "Bring a valid photo ID that matches your student record, along with any exam confirmation details shown in portal.crestwooduniversity.edu. Crestwood University may require your student ID card if you have one, depending on the exam format and course policy. If you are unsure what is acceptable for your exam, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 35,
+      "topic": "Exams and Results",
+      "question": "What are the rules during exams—can I have my phone or smartwatch with me?",
+      "answer": "Exam rules are set by your course and the university’s academic integrity standards, and they are usually summarized in the exam instructions in portal.crestwooduniversity.edu. Crestwood University generally prohibits unauthorized devices (including phones and smartwatches) unless explicitly allowed. If you need an accommodation or approved device for accessibility, email support@crestwooduniversity.edu in advance."
+    },
+    {
+      "id": 36,
+      "topic": "Exams and Results",
+      "question": "When will results/grades be posted after finals?",
+      "answer": "Grade posting timelines vary by course and term, and the expected release window is communicated through portal.crestwooduniversity.edu. Crestwood University posts grades after instructors submit and the term processing is completed. If you believe your grade is delayed unusually, contact support@crestwooduniversity.edu with the course code and term."
+    },
+    {
+      "id": 37,
+      "topic": "Exams and Results",
+      "question": "How do I check my exam results on the student portal?",
+      "answer": "Log in to portal.crestwooduniversity.edu and navigate to Academics or Grades to view your results for the selected term. Crestwood University may post final grades and component scores depending on the course settings. If you can’t access the grades page, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 38,
+      "topic": "Exams and Results",
+      "question": "I think my grade is wrong—how do I request a recheck or appeal?",
+      "answer": "Start by reviewing your posted grade and any feedback available in portal.crestwooduniversity.edu, then follow the grade appeal or revaluation instructions listed for your course/term. Crestwood University may require submission within a specific timeframe and may ask for a written rationale and supporting documentation. If you cannot find the appeal form, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 39,
+      "topic": "Exams and Results",
+      "question": "Do you offer makeup exams if I miss an exam due to illness or an emergency?",
+      "answer": "Makeup or supplementary exams may be available when you have an approved, documented reason and you request it within the required timeframe. Crestwood University typically requires supporting documentation and instructor/department approval, and instructions are usually provided in portal.crestwooduniversity.edu. To start a request, email support@crestwooduniversity.edu with your course, exam date, and explanation."
+    },
+    {
+      "id": 40,
+      "topic": "Exams and Results",
+      "question": "I got locked out during an online exam—what should I do immediately?",
+      "answer": "First, follow any on-screen instructions from the testing platform and take a screenshot of the error if possible. Then report the issue right away through helpdesk@crestwooduniversity.edu so Crestwood University can document the incident and advise on next steps. You should also notify your instructor as soon as possible to ensure the disruption is recorded."
+    },
+    {
+      "id": 41,
+      "topic": "IT Support and Student Portal",
+      "question": "How do I log in to the Crestwood University student portal for the first time?",
+      "answer": "Go to portal.crestwooduniversity.edu and sign in using the credentials provided after you were admitted. Crestwood University may require you to complete a first-time setup step, such as verifying contact details or updating your password. If you cannot sign in after following the prompts, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 42,
+      "topic": "IT Support and Student Portal",
+      "question": "I forgot my portal password—how do I reset it?",
+      "answer": "Use the “Forgot Password” option on portal.crestwooduniversity.edu to initiate a reset using your registered email or verification method. Crestwood University may send a reset link or code that expires after a short time, so complete the process promptly. If you don’t receive the reset email, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 43,
+      "topic": "IT Support and Student Portal",
+      "question": "I can’t remember my username for the portal—who can help me?",
+      "answer": "If you’ve forgotten your username, please contact Crestwood University IT so they can verify your identity and assist with account recovery. Email helpdesk@crestwooduniversity.edu with your full name and student ID (if available). Avoid sending sensitive information like passwords in email."
+    },
+    {
+      "id": 44,
+      "topic": "IT Support and Student Portal",
+      "question": "The student portal isn’t loading or keeps timing out—what should I try?",
+      "answer": "First, try a different browser, clear your cache, and confirm your internet connection, then reload portal.crestwooduniversity.edu. Crestwood University may perform maintenance at certain times, which can temporarily affect access. If the issue persists, email helpdesk@crestwooduniversity.edu with the error message and approximate time it occurred."
+    },
+    {
+      "id": 45,
+      "topic": "IT Support and Student Portal",
+      "question": "How do I set up my Crestwood University student email account?",
+      "answer": "Student email setup instructions are provided in portal.crestwooduniversity.edu under your IT or onboarding resources. Crestwood University may require you to activate the account and then add it to your phone or desktop email app using the recommended settings. If you cannot locate the setup guide, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 46,
+      "topic": "IT Support and Student Portal",
+      "question": "Do I need a VPN to access library resources or university systems from home?",
+      "answer": "Some Crestwood University systems may require VPN when accessed off campus, depending on the service. VPN availability and setup steps are listed in portal.crestwooduniversity.edu under IT resources. If you receive VPN connection errors, contact helpdesk@crestwooduniversity.edu for troubleshooting."
+    },
+    {
+      "id": 47,
+      "topic": "IT Support and Student Portal",
+      "question": "What software or tools does Crestwood University provide to students?",
+      "answer": "Available student software and tools are listed in portal.crestwooduniversity.edu, and access may depend on your program or enrolled courses. Crestwood University may provide licensed tools, learning platforms, or downloadable applications through the portal. If you need help confirming eligibility or installing a tool, email helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 48,
+      "topic": "IT Support and Student Portal",
+      "question": "What’s the best way to report an IT problem so it gets fixed quickly?",
+      "answer": "Report IT issues by emailing helpdesk@crestwooduniversity.edu with a clear description of the problem and any screenshots or error codes. Crestwood University recommends including your student ID, the device/browser you’re using, and the date/time the issue occurred. You can also check portal.crestwooduniversity.edu for any posted service alerts or maintenance notices."
+    },
+    {
+      "id": 49,
+      "topic": "Hostel and Campus Facilities",
+      "question": "How do I apply for on-campus housing at Crestwood University?",
+      "answer": "You can apply for on-campus housing through the housing section of portal.crestwooduniversity.edu when applications are open. Crestwood University will ask you to complete a housing form and confirm your term of attendance. If you don’t see the housing application in your portal, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 50,
+      "topic": "Hostel and Campus Facilities",
+      "question": "How much is the dorm/hostel fee and where do I pay it?",
+      "answer": "Housing fees are posted to your student account once your housing is assigned, and you can view the breakdown in portal.crestwooduniversity.edu. Crestwood University payments are made through the billing section of the portal using the available payment options. If you believe you were charged incorrectly, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 51,
+      "topic": "Hostel and Campus Facilities",
+      "question": "How does room allocation work, and can I pick my roommate?",
+      "answer": "Room allocation is based on availability, application timing, and eligibility, and details are communicated in portal.crestwooduniversity.edu. Crestwood University may allow roommate preferences when the option is available in the housing application, but placement is not guaranteed. If you need a specific accommodation, email support@crestwooduniversity.edu as early as possible."
+    },
+    {
+      "id": 52,
+      "topic": "Hostel and Campus Facilities",
+      "question": "Where can I read the dorm rules like guest policies and quiet hours?",
+      "answer": "Housing policies, including guest rules and quiet hours, are provided in the housing resources area of portal.crestwooduniversity.edu. Crestwood University expects residents to follow these guidelines to maintain a safe and respectful community. If you can’t locate the policy document, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 53,
+      "topic": "Hostel and Campus Facilities",
+      "question": "How do meal plans work, and how do I sign up for one?",
+      "answer": "Meal plan options and enrollment instructions are listed in portal.crestwooduniversity.edu under campus services or dining. Crestwood University meal plans may be required for certain housing assignments and can be billed directly to your student account. If you’re unsure which plan to choose, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 54,
+      "topic": "Hostel and Campus Facilities",
+      "question": "Do students get access to the gym and sports facilities, and do I need to book?",
+      "answer": "Student access to the gym and sports facilities is outlined in the campus facilities section of portal.crestwooduniversity.edu. Crestwood University may require reservations for certain spaces, classes, or peak hours depending on demand. If your access card or account isn’t working, contact helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 55,
+      "topic": "Hostel and Campus Facilities",
+      "question": "How do I get a parking permit, and where can I see parking rules?",
+      "answer": "Parking permit requests and parking rules are typically managed through portal.crestwooduniversity.edu under transportation or campus services. Crestwood University may require your vehicle details and may limit permits based on availability. If you need help with a permit request or portal access, email helpdesk@crestwooduniversity.edu."
+    },
+    {
+      "id": 56,
+      "topic": "Hostel and Campus Facilities",
+      "question": "What should I do if I feel unsafe or need help on campus after hours?",
+      "answer": "If you feel unsafe, move to a well-lit public area and contact campus support immediately using the safety resources listed in portal.crestwooduniversity.edu. Crestwood University encourages students to report concerning incidents promptly so appropriate action can be taken. For non-urgent follow-up or guidance, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 57,
+      "topic": "Scholarships",
+      "question": "What types of scholarships does Crestwood University offer?",
+      "answer": "Crestwood University offers a range of scholarships that may include merit-based awards, need-based awards, and program-specific scholarships. Available opportunities and eligibility requirements are listed in the Scholarships section of portal.crestwooduniversity.edu. If you need help finding scholarships that match your program, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 58,
+      "topic": "Scholarships",
+      "question": "What do you look at for merit-based scholarships—GPA, test scores, or something else?",
+      "answer": "Merit-based scholarship criteria at Crestwood University vary by award and may consider academic performance, leadership, and other achievements. The specific requirements for each scholarship are posted in portal.crestwooduniversity.edu, including any minimum GPA or documentation needed. If you have questions about a particular scholarship’s criteria, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 59,
+      "topic": "Scholarships",
+      "question": "How do I apply for need-based scholarships, and what documents are required?",
+      "answer": "Need-based scholarship applications are submitted through the financial aid or scholarships area of portal.crestwooduniversity.edu. Crestwood University may request financial documentation and additional forms depending on the scholarship and your student status. If you’re not sure what to upload or how to submit documents, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 60,
+      "topic": "Scholarships",
+      "question": "When are scholarship applications due each year?",
+      "answer": "Scholarship deadlines differ by award and are listed on each scholarship posting in portal.crestwooduniversity.edu. Crestwood University recommends applying as early as possible, since some scholarships have limited funding or priority deadlines. If you’re trying to confirm a deadline for a specific scholarship, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 61,
+      "topic": "Scholarships",
+      "question": "How can I check if my scholarship application was received and is being reviewed?",
+      "answer": "You can track your scholarship application status in portal.crestwooduniversity.edu under your Scholarships dashboard. Crestwood University updates statuses as materials are received and decisions are processed, so check the checklist for any missing documents. If your status hasn’t changed for an extended period, contact support@crestwooduniversity.edu."
+    },
+    {
+      "id": 62,
+      "topic": "Scholarships",
+      "question": "Do scholarships automatically renew every year or do I have to reapply?",
+      "answer": "Renewal rules depend on the scholarship, and the terms are listed in the award details in portal.crestwooduniversity.edu. Crestwood University may require you to maintain specific enrollment and academic standards, and some awards require an annual renewal form. If you’re unsure about your renewal requirements, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 63,
+      "topic": "Scholarships",
+      "question": "I have an external scholarship from an organization—how do I report it to the university?",
+      "answer": "External scholarships should be reported through the financial aid area of portal.crestwooduniversity.edu if the reporting option is available. Crestwood University may request the award letter and sponsor payment instructions so the funds can be applied correctly to your student account. For guidance on submitting the documentation, email support@crestwooduniversity.edu."
+    },
+    {
+      "id": 64,
+      "topic": "Scholarships",
+      "question": "If my GPA drops, will I lose my scholarship right away?",
+      "answer": "Many scholarships require a minimum GPA and may be reviewed at the end of each term or academic year based on the scholarship’s terms. Crestwood University will notify you through portal.crestwooduniversity.edu if your award is at risk or if a probation period applies. If you’re concerned about your current standing, contact support@crestwooduniversity.edu to review your scholarship conditions."
+    }
+  ]
+}
